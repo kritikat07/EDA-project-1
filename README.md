@@ -15,7 +15,7 @@ Engineer meaningful features for future modeling
 
 Visualize key insights about restaurants and customer behavior
 
-🧩 Key Steps
+🧩 Key Steps:
 
 Data Cleaning.
 
@@ -51,7 +51,7 @@ Seaborn
 
 Plotly (optional for interactive visuals)
 
-📊 Insights Extracted
+📊 Insights Extracted:
 
 Top cuisines and countries contributing to Zomato’s global presence
 
